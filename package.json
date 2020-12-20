@@ -1,0 +1,24 @@
+{
+  "name": "javascript-starter-kit",
+  "version": "1.0.0",
+  "description": "A starter kit to utilize when setting up a new JavaScript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npranto/javascript-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "Nazmuz Pranto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npranto/javascript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/npranto/javascript-starter-kit#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "open": "^7.3.0"
+  }
+}
